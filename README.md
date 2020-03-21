@@ -1,3 +1,16 @@
+<div style="display: flex;">
+<aside style="width: 200px">
+
+### Get started
+- <a href="./get">Install</a>
+### Transfers
+- <a href="./get">GET</a>
+- <a href="./set.md">SET</a>
+- <a href="./update.md">UPDATE</a>
+- <a href="./delete.md">DELETE</a>
+
+</aside>
+<main>
 # Orbyte
 ## Before install
 First of all, you have to download Orbyte desktop application. The app is available in
@@ -24,7 +37,7 @@ Once installed, you have to connect to SQL database
 
 To get, set or update data, go to the application and create new transfer. After that, right click on the transfer label and select "Get code". The code will copied.
 
-<img src="./assets/transfer.png">
+<img src="https://raw.githubusercontent.com/orbyteapp/orbyte/master/assets/transfer.png">
 
 Then you can copy the code into your project like this
 
@@ -37,3 +50,4 @@ Then you can copy the code into your project like this
     };
 
 Execute the function to view the response
+</main>
