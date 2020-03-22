@@ -1,5 +1,4 @@
 # Install
-<a href="https://raw.githubusercontent.com/orbyteapp/orbyte/"> Read entire docs On Github </a>
 ## Before install
 First of all, you have to download Orbyte desktop application. The app is available in
 
@@ -42,8 +41,8 @@ Execute the function to view the response
 ## Next step
 Read all Info about transfer options
 
-- <a href="./get">GET</a>
-- <a href="./set.md">SET</a>
-- <a href="./update.md">UPDATE</a>
-- <a href="./delete.md">DELETE</a>
+- <a href="../transfers/get.md">GET</a>
+- <a href="../transfers/set.md">SET</a>
+- <a href="../transfers/update.md">UPDATE</a>
+- <a href="../transfers/delete.md">DELETE</a>
 

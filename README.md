@@ -1,6 +1,6 @@
 
 # Orbyte
-Welcome to Orbyte. You can check all documentation on the menu below.
+Welcome to Orbyte. You can find all documentation on the menu below.
 ## Documentation
 
 ### Get Started
