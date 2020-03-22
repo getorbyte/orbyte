@@ -43,3 +43,8 @@ where
         statusCode: 500,
         message: 'There was an error'
     }
+## Transfers
+- <a href="./get.md">GET</a>
+- <a href="./set.md">SET</a>
+- <a href="./update.md">UPDATE</a>
+- <a href="./delete.md">DELETE</a>

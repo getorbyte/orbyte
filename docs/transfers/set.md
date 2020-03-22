@@ -1,15 +1,3 @@
-
-<aside style="width: 200px">
-
-## Transfers
-- <a href="./get">GET</a>
-- <a href="./set.md">SET</a>
-- <a href="./update.md">UPDATE</a>
-- <a href="./delete.md">DELETE</a>
-
-</aside>
-<main >
-
 # SET - Transfer
 Orbyte's transfers allow integrate information from Orbyte to your project.
 
@@ -47,4 +35,8 @@ where
         statusCode: 500,
         message: 'There was an error'
     }
-</main>
+## Transfers
+- <a href="./get.md">GET</a>
+- <a href="./set.md">SET</a>
+- <a href="./update.md">UPDATE</a>
+- <a href="./delete.md">DELETE</a>
