@@ -49,10 +49,16 @@ where
         data: Object[]
     }
 
-#### Error
+#### Error Filters
     {
         statusCode: 500,
         message: 'Invalid number of D filters'
+    }
+
+#### Error
+    {
+        statusCode: 500,
+        message: 'There was an error'
     }
 
 ## Transfers
