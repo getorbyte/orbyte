@@ -45,4 +45,3 @@ Read all Info about transfer options
 - <a href="../transfers/set.md">SET</a>
 - <a href="../transfers/update.md">UPDATE</a>
 - <a href="../transfers/delete.md">DELETE</a>
-

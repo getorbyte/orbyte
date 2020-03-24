@@ -52,7 +52,7 @@ where
 #### Error
     {
         statusCode: 500,
-        message: 'There was an error'
+        message: 'Invalid number of D filters'
     }
 
 ## Transfers
