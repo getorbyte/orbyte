@@ -25,7 +25,7 @@ Filter your posts. Choose an item into the list and create a conditional rule fo
 
 <small>* Only works with integers or floats</small>
 
-## NPM Update
+## NPM GET
 
 ### Call
     orbyte.connect({
